@@ -1,1 +1,2 @@
-# Libraryms-PHP
+# phpmyLibraryMS
+formerly Libraryms-PHP
