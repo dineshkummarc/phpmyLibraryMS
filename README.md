@@ -1,2 +1,2 @@
 # phpmyLibraryMS
-formerly Libraryms-PHP
+formerly Libraryms-PHP, Works fine on php7.2.33.
